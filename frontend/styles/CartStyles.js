@@ -59,6 +59,8 @@ export const EmptyStyle = styled(motion.div)`
   h1 {
     font-size: 3rem;
     padding: 2rem;
+    cursor: pointer;
+    font-family: "Poppins-Medium", sans-serif;
   }
 
   svg {

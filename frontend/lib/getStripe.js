@@ -1,4 +1,4 @@
-import { loadStrip } from "@stripe/stripe-js";
+import { loadStripe } from "@stripe/stripe-js";
 
 let stripe;
 
@@ -9,4 +9,4 @@ const getStripe = async () => {
   return stripe;
 };
 
-export default getStripe();
+export default getStripe;
