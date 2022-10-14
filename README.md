@@ -1,4 +1,4 @@
-# resound-mech
+# resound-merch
 
 How to open the website:
 
